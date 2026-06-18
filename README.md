@@ -10,8 +10,6 @@ Sistema inteligente de monitoramento de uma missão espacial experimental, desen
 - **Curso:** Ciência da Computação - 1º semestre
 - **Instituição:** FIAP
 - **Trabalho:** Individual
-- **Nome da missão:** Aurora 571770
-- **Nome da equipe:** Equipe Polaris
 
 ## Objetivo
 
